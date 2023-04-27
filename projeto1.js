@@ -1,6 +1,6 @@
 // 7º Problema: Receba um número e imprima seu fatorial
 
-let num = parseInt(prompt("Digite um número para descubrir seu fatorial"));
+let num = parseInt(prompt("Digite um número para descobrir seu fatorial"));
 let factorial = 1;
 
 if (num > 0) {
